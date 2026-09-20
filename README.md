@@ -1,2 +1,3 @@
 # UAV-assisted-Unloading-Optimization-Based-on-Reinforcement-Learning
 Jin Boyuan's undergraduate thesis folder
+针对在无人机辅助移动边缘计算系统中，能量受限、信道动态变化以及任务随机到达等问题，本文研究了计算卸载与无人机飞行路径的联合优化方法。本论文构建了单无人机多用户边缘计算系统模型。无人机搭载边缘服务器，可以为地面用户提供计算服务。用户任务既可以在本地执行，也可以选择部分卸载到无人机中处理。空地通信过程采用了概率视距链路模型。
